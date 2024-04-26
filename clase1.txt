@@ -5,3 +5,5 @@ Se esta enseñando a los alumnos a hacer un mejor manejo de creación de proyect
 En este momento estamos realizando nuestro primer commit "guardado1"
 
 Esta facil aprender GIT.
+
+hagamos un cambio mas.
