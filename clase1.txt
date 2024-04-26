@@ -3,3 +3,5 @@ Clase LP2 GIT
 Se esta enseñando a los alumnos a hacer un mejor manejo de creación de proyectos, tares, programas con GIT para luego subir al repositorio remoto GIT HUB.
 
 En este momento estamos realizando nuestro primer commit "guardado1"
+
+Esta facil aprender GIT.
